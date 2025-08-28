@@ -1,8 +1,11 @@
 # Tugas-1-MPD
 
 Nama : Sanvic Dicaprio
+
 Kelas : SK7C
+
 NIM : 09011282227081
+
 
 ### Uptime Institute Tier I-IV
 _Uptime Institute_ merupakan lembaga internasional yang membuat standar klasifikasi pusat data dalam empat kategori atau _tier_. Standar ini digunakan untuk menilai keandalan, ketersediaan, dan redundansi infrastruktur pusat data. Tujuannya adalah memberikan panduan seberapa kuat sebuah pusat data dalam menghadapi gangguan dan seberapa lama layanan dapat tetap beroperasi tanpa henti. Semakin tinggi tingkat _tier_-nya, maka semakin andal infrastruktur yang dipakai pada pusat data tersebut. _Uptime Institute_ mencakup 4 standar diantaranya:
